@@ -1,0 +1,2 @@
+C:\Users\huday\OneDrive\Рабочий стол\Новая папка\c++ mai\lab3_3sem\x64\Debug\lab3_3sem.exe
+C:\Users\huday\OneDrive\Рабочий стол\Новая папка\c++ mai\Prog_lab3_3sem\x64\Debug\lab3_3sem.exe

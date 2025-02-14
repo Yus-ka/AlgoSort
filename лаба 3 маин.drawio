@@ -1,0 +1,112 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.1">
+  <diagram name="Страница — 1" id="AfD6zDwTWsjLbywxBRsc">
+    <mxGraphModel dx="462" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KiyyF-BbfI75pbUZRWIE-1" target="KiyyF-BbfI75pbUZRWIE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-1" value="Начало" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KiyyF-BbfI75pbUZRWIE-2" target="KiyyF-BbfI75pbUZRWIE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-2" value="Генератор случайных чисел&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KiyyF-BbfI75pbUZRWIE-4" target="KiyyF-BbfI75pbUZRWIE-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-4" value="Функция записи результатов в файл" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KiyyF-BbfI75pbUZRWIE-6" target="KiyyF-BbfI75pbUZRWIE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-6" value="&lt;div&gt;Открытие файла для записи&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KiyyF-BbfI75pbUZRWIE-9" target="KiyyF-BbfI75pbUZRWIE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-9" value="Вход:&lt;div&gt;Ссылка на файл&amp;nbsp;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="380" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KiyyF-BbfI75pbUZRWIE-11" target="KiyyF-BbfI75pbUZRWIE-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-11" value="Функция сравнения счетчиков для массива из 15 элементов" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="235" y="460" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KiyyF-BbfI75pbUZRWIE-4" target="KiyyF-BbfI75pbUZRWIE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KiyyF-BbfI75pbUZRWIE-14" target="KiyyF-BbfI75pbUZRWIE-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-14" value="Функция сравнения счетчиков для массива из 500 элементов" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="235" y="540" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KiyyF-BbfI75pbUZRWIE-16" target="KiyyF-BbfI75pbUZRWIE-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-16" value="Функция сравнения счетчиков для массива из 1000 элементов" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="235" y="620" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KiyyF-BbfI75pbUZRWIE-18" target="KiyyF-BbfI75pbUZRWIE-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-18" value="Функция сравнения счетчиков для массива из 10000 элементов" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="235" y="700" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KiyyF-BbfI75pbUZRWIE-20" target="KiyyF-BbfI75pbUZRWIE-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-20" value="Функция сравнения счетчиков для массива из 50000 элементов" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="235" y="780" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KiyyF-BbfI75pbUZRWIE-23" target="KiyyF-BbfI75pbUZRWIE-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-23" value="Вход:&lt;div&gt;Размер массива&lt;/div&gt;&lt;div&gt;Минимум, максимум&lt;/div&gt;&lt;div&gt;Запись в файл&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="520" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KiyyF-BbfI75pbUZRWIE-25" target="KiyyF-BbfI75pbUZRWIE-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-25" value="Вход:&lt;div&gt;Размер массива&lt;/div&gt;&lt;div&gt;Минимум, максимум&lt;/div&gt;&lt;div&gt;Запись в файл&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="680" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KiyyF-BbfI75pbUZRWIE-27" target="KiyyF-BbfI75pbUZRWIE-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-27" value="Вход:&lt;div&gt;Размер массива&lt;/div&gt;&lt;div&gt;Минимум, максимум&lt;/div&gt;&lt;div&gt;Запись в файл&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="80" y="600" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KiyyF-BbfI75pbUZRWIE-29" target="KiyyF-BbfI75pbUZRWIE-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-29" value="Вход:&lt;div&gt;Размер массива&lt;/div&gt;&lt;div&gt;Минимум, максимум&lt;/div&gt;&lt;div&gt;Запись в файл&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KiyyF-BbfI75pbUZRWIE-33" target="KiyyF-BbfI75pbUZRWIE-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-33" value="Вход:&lt;div&gt;Размер массива&lt;/div&gt;&lt;div&gt;Минимум, максимум&lt;/div&gt;&lt;div&gt;Запись в файл&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="80" y="760" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KiyyF-BbfI75pbUZRWIE-35" target="KiyyF-BbfI75pbUZRWIE-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-35" value="Закрываем файл" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KiyyF-BbfI75pbUZRWIE-37" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="940" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
